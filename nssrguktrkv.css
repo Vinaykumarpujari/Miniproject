@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.img_p{
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    margin-right:25px;
+    margin-top: 10px;
+}
+.logo_heading{
+    font-style: Roboto;
+}
+.bg_image{
+    background-image: url("https://res.cloudinary.com/dsa10xogi/image/upload/v1659588505/hand-planting-corn-seed-marrow-vegetable-garden-with-sunshine_34152-1616_n6gsvq.webp");
+    background-size: cover;
+    height: 100vh;
+}
+.home_para{
+    color: beige;
+    font-family: cursive;
+    font-style: italic;
+}
+.home_heading{
+    color: #656fc9;
+    font-style: Roboto;
+    font-size: 90px;
+}
+.home_heading2{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color:#d5e4f5 ;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #656fc9;
+    font-size: 35px;
+}
+.about_section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 60vh;
+    padding: 40px;
+    padding-top: 80px;
+}
+.img-p {
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+
+.bg-container-2 {
+    background-color:#ffffff;
+    padding: 10px;
+    height: 250px;
+    width: 700px;
+}
+.registration-box{
+    background-color: #eef1f8;
+    height:200px;
+    width: 500px;
+    border-radius: 20px;
+    border-width: 5px;
+}
